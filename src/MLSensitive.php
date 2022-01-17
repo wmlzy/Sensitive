@@ -4,6 +4,7 @@
  * Created by WML
  * Created on 2022/1/17
  */
+namespace Sensitive\MLSensitive;
 
 function sensitive($list, $string){
 //    $count = 0; //违规词的个数
